@@ -1,0 +1,2 @@
+# GottaCatchEmAll
+The world is a rectangular grid that has empty cells, walls and pokemons. There is an agent standing at one of the grid cells (that is not a wall) with an egg that will hatch if he will walk some given number of forward steps. This agent can either walk forward, rotate left or rotate right. The agent aims to start from the initial position he is standing at, collect all the pokemons, hatch his egg and finally arrive to a destination position.
